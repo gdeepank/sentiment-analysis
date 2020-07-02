@@ -1,2 +1,2 @@
-# sentiment-analysis
-Twitter Sentiment Analysis using Python 3 and NLTK 
+## Twitter Sentiment Analysis
+Sentiment Analysis of Twitter data using Python 3 and NLTK. 
